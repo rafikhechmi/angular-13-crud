@@ -1,0 +1,23 @@
+{
+  "productList": [
+    {
+      "productName": "apple1",
+      "category": "Vegetable",
+      "freshness": "Brand New",
+      "price": 30,
+      "comment": "frech apple",
+      "date": "2022-05-23T23:00:00.000Z",
+      "id": 1
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
